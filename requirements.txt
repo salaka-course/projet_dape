@@ -10,10 +10,5 @@ Flask-Session>=0.4.0
 Flask-WTF>=1.1.1
 Werkzeug>=2.3.0
 Flask-SQLAlchemy
-flask_migrate
+Flask-Migrate
 jinja2
-io
-tempfile
-uuid
-os
-
